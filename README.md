@@ -39,7 +39,7 @@ TCP/IPモデルとOSIモデルは、いずれもすべてのネットワーク�
 
 
 参考文献と参考サイト
-OSI参照モデルとTCP／IPについて 
+OSI参照モデルとTCP／IPについて <br>
 https://ansl-blog.hatenablog.com/entry/2019/05/22/OSI%E5%8F%82%E7%85%A7%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8TCP%EF%BC%8FIP%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6
 
 TCP/IPの絵本　(株)アンク
