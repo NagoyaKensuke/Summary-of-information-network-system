@@ -11,7 +11,8 @@ MACアドレス（マック・アドレス、英語: Media Access Control addres
 
 CSMA/CDは，Carrier Sense Multiple Access/Collision Detection
 
-bps は bit per second で、1 秒あたりに処理できる bit 数を表す。pps は packets per second の略で、1 秒あたりに処理できるパケット数
+bps は bit per second で、1 秒あたりに処理できる bit 数を表す。pps は packets per second の略で、1 秒あたりに処理できるパケット数<br>
+「URG(Urgent)」「ACK(Acknowledge)」「PSH(Push)」「RST(Reset)」「SYN(Synchronize)」，Fin(Finish)」
 
 ＜参照＞<br>
 ・放送大学<br>
