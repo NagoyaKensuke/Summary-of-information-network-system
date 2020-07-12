@@ -9,6 +9,10 @@ ARPANETは当初、NCP（Network Control Program）という，独自の通信�
 
 MACアドレス（マック・アドレス、英語: Media Access Control address）とは、ネットワーク上で、各ノードを識別するために設定されているLANカードなどのネットワーク機器のハードウェアに（原則として）一意に割り当てられる物理アドレスである。OSI参照モデルでいえば、第2層（データリンク層）Media Access Controlのアドレスにあたる。
 
+CSMA/CDは，Carrier Sense Multiple Access/Collision Detection
+
+bps は bit per second で、1 秒あたりに処理できる bit 数を表す。pps は packets per second の略で、1 秒あたりに処理できるパケット数
+
 ＜参照＞<br>
 ・放送大学<br>
 ・wikipedhia<br>
