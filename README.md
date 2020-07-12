@@ -5,10 +5,9 @@
 kbps×％×％＝kbps が実質伝送速度
 
 
+<br><br><br>
 
-
-<h2>Mid_report
-OSI参照モデルとTCP/IPモデルの特徴の比較</h2>
+<h2>OSI参照モデルとTCP/IPモデルの特徴の比較</h2>
 
 
 OSI参照モデル(OSI reference mode)
